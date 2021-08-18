@@ -1,0 +1,128 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+  background-color: #f0e9e9;
+}
+p {
+  color: #8f8f8f;
+}
+.navbar-toggler {
+  background-color: #c19191;
+}
+
+.brand-image {
+  width: 100px;
+  height: 100px;
+}
+.flowers {
+  position: relative;
+  left: 40rem;
+}
+.title-text {
+  font-family: "Montserrat", sans-serif;
+  padding: 10% 25% 7%;
+  line-height: 2;
+  font-size: 3rem;
+  color: black;
+  position: relative;
+  bottom: 30rem;
+}
+.title-section {
+  margin-bottom: -300px;
+}
+#features .container-fluid {
+  position: relative;
+  bottom: 100px;
+  padding: 7% 15%;
+  background-color: white;
+}
+.features-box {
+  padding: 4.5%;
+}
+.features-title {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #2b2323;
+}
+.fas {
+  padding-bottom: 7%;
+  color: #c19191;
+}
+.fas:hover {
+  color: #8b5d5d;
+}
+.letter-color {
+  color: #c19191;
+  font-weight: bold;
+}
+.btn-navbar {
+  background-color: #c19191;
+  border-radius: 10px;
+  color: #e3cdc1;
+  position: relative;
+  bottom: 3px;
+}
+.btn-navbar:hover {
+  color: white;
+}
+.nav-item {
+  position: relative;
+  left: 30rem;
+  margin: 10px;
+}
+.nav-link {
+  color: #c19191;
+}
+.nav-link:hover {
+  color: #aa7070;
+}
+.cart-icon {
+  position: relative;
+  left: 30px;
+  bottom: 30px;
+  color: #c19191;
+}
+.cart {
+  font-weight: bold;
+}
+.store {
+  font-weight: bold;
+}
+.products-section {
+  padding: 50px;
+}
+.products-title {
+  position: relative;
+  bottom: 80px;
+}
+.button-prices {
+  background-color: #e3cdc1;
+}
+.button-prices:hover {
+  background-color: #f0e9e9;
+}
+.middle-btn {
+  background-color: #c19191;
+}
+.products-images {
+  height: 20rem;
+}
+.reviews-section {
+  background-color: #c19191;
+  padding: 15%;
+}
+.reviews-text {
+  line-height: 1.5;
+  font-size: 2rem;
+  font-weight: bold;
+  color: white;
+}
+.quick-links {
+  padding: 3%;
+}
+.sites{
+  padding: 3%;
+}
+h4{
+  padding-top: 3%;
+}
